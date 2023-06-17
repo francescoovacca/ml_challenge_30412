@@ -1,6 +1,6 @@
 # Machine Learning Challenge - 30412
 
-This repository showcases a project completed as part of the Machine Learning course at Bocconi University, where the students of the course participated in a challenge. The project presented achieved the first place on the Kaggle leaderboard, winning the competition. The goal of the challenge was to accurately predict house prices in Italy.
+This repository showcases a project completed as part of the Machine Learning course at Bocconi University, where students participated in a Kaggle challenge. The project presented achieved the first place on the Kaggle leaderboard, winning the competition. The goal of the challenge was to accurately predict house prices in Italy.
 
 ## Contents
 
