@@ -1,6 +1,6 @@
 # Machine Learning Challenge - 30412
 
-This repository showcases the house price prediction ML challenge project, completed as part of the Machine Learning course at Bocconi University. The project presented finished in the first position on the Kaggle leaderboard, winning the competition. 
+This repository showcases the house price prediction ML challenge project, completed as part of the Machine Learning course at Bocconi University. The predictions made by the algorithm presented finished in the first position on the Kaggle leaderboard, winning the competition. 
 The goal of the project is to predict house prices in different italian cities using machine learning methods.
 
 ## Contents
